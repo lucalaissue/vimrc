@@ -1,0 +1,6 @@
+{
+    "eslint.enable": false,
+    "coc.preferences.hoverTarget": "float",
+    "suggest.noselect": false,
+    "python.jediEnabled": false
+}
